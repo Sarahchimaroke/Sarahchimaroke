@@ -3,8 +3,8 @@
 <head>
 <h1>Sarah chimaroke</h1>
 <SECTION>
-<p>Hi, I'm Sarah Chimaroke,Hi, I’m @Sarahchimaroke - 👀 I’m interested in sharpening my skills in HTML,CSS,,JAVASCRIPT, C++,C#,PHP,React. -</p>
-     <p> 🌱 I’m currently learning web developement</p>
+<p>Hi, I'm Sarah Chimaroke,Hi, I’m @Sarahchimaroke - Frontend Developer | Backend Enthusiast | Tech Explorer-</p>
+     <p> 🌱 I’m currently learning Backend developement</p>
     <p>💞️ I’m looking to collaborate on any project</p>
     <p>📫 How to reach me on whatsapp +2349046379131 </p>
      <p>😄 Pronouns:SHE/HER</p>
